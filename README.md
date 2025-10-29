@@ -87,8 +87,6 @@ Bu veri seti, Türkçe dilinde çalışan doğal dil işleme sistemlerinin **do�
 - Metin; cümle, başlık ve paragraf düzeyinde anlam bütünlüğü korunarak düzenlendi.  
 - İsteğe bağlı olarak **JSON biçiminde** örnek QA eşleşmeleri oluşturuldu.
 
-> Reprodüksiyon için öneri: Ön‑işleme adımlarını ayrı bir betikte toplayıp *commit hash* ile sürümleyin.
-
 ---
 
 ## 🧩 Veri Şeması
