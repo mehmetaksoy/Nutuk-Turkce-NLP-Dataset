@@ -1,4 +1,4 @@
-# 🇹🇷 Nutuk 1. Cilt — Türkçe Doğal Dil İşleme Veri Seti (750-QA)
+# 🇹🇷 Nutuk 1. Cilt — Türkçe Doğal Dil İşleme Veri Seti (600-QA)
 
 > “Efendiler, bu nutuklarım, bir devrin hikâyesidir...”  
 > — Gazi Mustafa Kemal ATATÜRK, 1927
