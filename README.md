@@ -446,7 +446,7 @@ Toplam **29 benzersiz soru** düzeltildi (bazı sorular birden fazla düzeltme a
 
 ## 🗓️ Sürümleme
 
-### v2.0 — 2 Kasım 2024 🎉
+### v2.0 — 2 Kasım 2025 🎉
 
 - ✅ **%100 Doğruluk** garantisi ile yeniden yayımlandı
 - ✅ 600 soru kaynak metinle satır satır doğrulandı
@@ -457,7 +457,7 @@ Toplam **29 benzersiz soru** düzeltildi (bazı sorular birden fazla düzeltme a
 - ✅ Profesyonel veri şeması
 - 📄 Dosya adı: `nutuk_600_sorular_DUZELTILMIS.json`
 
-### v1.0 — 29 Ekim 2024
+### v1.0 — 29 Ekim 2025
 
 - İlk kamu yayımlaması (1–334. sayfalar, örnek QA)
 - 📄 Dosya adı: `nutuk_qa_birlesik_revize_final.json`
@@ -514,23 +514,23 @@ Bu veri setini akademik/teknik çalışmalarda kullanırken lütfen aşağıdaki
 
 ### Türkçe (önerilen)
 
-> Mehmet Aksoy, *Nutuk 1. Cilt — Türkçe Doğal Dil İşleme Veri Seti* (sürüm v2.0), GitHub deposu, 2 Kasım 2024. Erişim: https://github.com/mehmetaksoy/Nutuk-Turkce-NLP-Dataset
+> Mehmet Aksoy, *Nutuk 1. Cilt — Türkçe Doğal Dil İşleme Veri Seti* (sürüm v2.0), GitHub deposu, 2 Kasım 2025. Erişim: https://github.com/mehmetaksoy/Nutuk-Turkce-NLP-Dataset
 
 ### IEEE Stili
 
-> [1] M. Aksoy, "Nutuk 1. Cilt — Türkçe Doğal Dil İşleme Veri Seti (v2.0)," GitHub repository, Nov. 2, 2024. [Online]. Available: https://github.com/mehmetaksoy/Nutuk-Turkce-NLP-Dataset
+> [1] M. Aksoy, "Nutuk 1. Cilt — Türkçe Doğal Dil İşleme Veri Seti (v2.0)," GitHub repository, Nov. 2, 2025. [Online]. Available: https://github.com/mehmetaksoy/Nutuk-Turkce-NLP-Dataset
 
 ### APA Stili
 
-> Aksoy, M. (2024). *Nutuk 1. Cilt — Türkçe Doğal Dil İşleme Veri Seti* (v2.0) [GitHub repository]. https://github.com/mehmetaksoy/Nutuk-Turkce-NLP-Dataset
+> Aksoy, M. (2025). *Nutuk 1. Cilt — Türkçe Doğal Dil İşleme Veri Seti* (v2.0) [GitHub repository]. https://github.com/mehmetaksoy/Nutuk-Turkce-NLP-Dataset
 
 ### BibTeX
 
 ```bibtex
-@misc{nutuk_tr_nlp_v2_2024,
+@misc{nutuk_tr_nlp_v2_2025,
   title        = {Nutuk 1. Cilt --- Türkçe Doğal Dil İşleme Veri Seti},
   author       = {Aksoy, Mehmet},
-  year         = {2024},
+  year         = {2025},
   month        = {11},
   howpublished = {\url{https://github.com/mehmetaksoy/Nutuk-Turkce-NLP-Dataset}},
   note         = {Sürüm v2.0, GitHub repository, %100 doğrulukla verifikasyondan geçmiş 600 soru-cevap veri seti},
